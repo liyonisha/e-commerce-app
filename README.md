@@ -2,27 +2,6 @@
 
 A full-stack e-commerce application built with **Next.js 14** (frontend) and **ASP.NET Core 8** (backend).
 
----
-
-## Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | Next.js 14, TypeScript, Tailwind CSS, Zustand |
-| Backend | ASP.NET Core 8, Entity Framework Core, Clean Architecture |
-| Database | MySQL 8 |
-| Auth | JWT Tokens, Role-based (Admin / Customer) |
-
----
-
-## Prerequisites
-
-- .NET 8 SDK
-- Node.js 20+
-- MySQL 8
-
----
-
 ## Run Locally
 
 ### 1. Configure the database
@@ -58,16 +37,7 @@ App → `http://localhost:3000`
 
 ---
 
-## Features
 
-- User registration & login with JWT
-- Product listing with search & pagination
-- Shopping cart & checkout
-- Order history
-- Admin panel (manage products & categories)
-- Seed data (4 categories, 6 products, 1 admin)
-
----
 
 ## Docker
 
