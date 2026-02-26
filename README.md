@@ -314,3 +314,5 @@ NEXT_PUBLIC_API_URL=https://your-api-domain.com/api
 - [x] Seed data
 - [x] Docker support
 - [x] Environment variables
+#   e - c o m m e r c e - a p p  
+ 
